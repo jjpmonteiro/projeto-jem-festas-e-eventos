@@ -1,0 +1,30 @@
+:root {
+    --max-width-size: 1920px;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+    display: grid;
+    grid-template-areas: "header header header header"
+                         "hero hero hero hero"
+                         "about about about about"
+                         "services services services services"
+                         "projects projects projects projects"
+                         "footer footer footer footer";
+    grid-template-columns: repeat(4, 1fr);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+.titulo {
+    font-family: 'Caveat Brush', cursive;
+}
+
+h3, li {
+    font-family: 'Carton Six Regular', sans-serif;
+}
