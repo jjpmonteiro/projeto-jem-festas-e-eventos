@@ -183,12 +183,12 @@
 }
 
 .about .image.right {
-    background: url('../images/pexels-bruno-bueno-5393625.jpg') center center no-repeat;
+    background: url(../images/pexels-bruno-bueno-5393625.jpg) center center no-repeat;
     background-size: cover;
 }
 
 .about .image.left {
-    background: url('../images/pexels-karolina-grabowska-4964542.jpg') center center no-repeat;
+    background: url(../images/pexels-karolina-grabowska-4964542.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -284,7 +284,7 @@
 .footer {
     grid-area: footer;
     display: flex;
-    background-image: url(/src/images/v935-aum-16.jpg);
+    background-image: url(../images/pattern1.jpg);
     background-size: cover;
     flex-direction: column;
     text-align: center;
