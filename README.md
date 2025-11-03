@@ -40,6 +40,13 @@ Exemplo simplificado de uso no projeto:
 }
 ```
 
+<img width="1348" height="763" alt="Captura de tela 2025-11-03 011824" src="https://github.com/user-attachments/assets/44c86b7f-69f5-4c9b-8d4a-1d998dff6704" />
+
+<img width="1349" height="767" alt="Captura de tela 2025-11-03 011855" src="https://github.com/user-attachments/assets/b4baf9df-4710-4f29-9a7c-25bb78797041" />
+
+<img width="1351" height="767" alt="Captura de tela 2025-11-03 011920" src="https://github.com/user-attachments/assets/da94d1ce-63de-48ec-aeb0-04a77a2d8268" />
+
+
 ## 📋 Status do Projeto
 
 ✅ Layout principal concluído com CSS Grid.
